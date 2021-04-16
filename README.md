@@ -1,3 +1,4 @@
 # FirstJniApplication
 
+test
 test2
